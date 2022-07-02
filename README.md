@@ -1,2 +1,3 @@
-Weather app used for practicing HTML, CSS, and JavaScript.
-The API_KEY is not provided for security purposes.
+- Weather app used for practicing HTML, CSS, and JavaScript.
+- Include the Geolocation API to display user's current location's weather.
+- The API_KEY is not provided for security purposes.
